@@ -38,6 +38,7 @@
           },
           "configurations": {
             "production": {
+              "baseHref": "/ngx-leaflet-267/",
               "budgets": [
                 {
                   "type": "initial",
